@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/guemmoutsalma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guemmoutsalma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/salma-guemmout-48b297221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/salma-guemmout-48b297221" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salma-guemmout-48b297221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/salma-guemmout-48b297221" height="30" width="40" /></a>
 <a href="https://medium.com/@salmagmt123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salmagmt123" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@guemmoutsalma2162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@guemmoutsalma2162" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCHswoJcHY4GiPB0yfCz0obw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@guemmoutsalma2162" height="30" width="40" /></a>
 <a href="https://discord.gg/salema." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="salema." height="30" width="40" /></a>
 </p>
 
